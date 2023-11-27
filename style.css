@@ -4,7 +4,8 @@ color:green;
 font-weight: bold;
 }
 p: :before {
-content: 'Hello color': red;
+content: 'Hello';
+color: red;
 font-weight: bold;
 }
 p::after {
