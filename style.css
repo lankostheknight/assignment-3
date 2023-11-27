@@ -4,12 +4,12 @@ color:green;
 font-weight: bold;
 }
 p::before {
-content: ' Hello ';
+content: ' Merhaba! ';
 color: green;
 font-weight: bold;
 }
 p::after {
-content: ' Bye!';
+content: ' Gule gule! ';
 color: blue;
 font-weight: bold;
 }
