@@ -1,5 +1,5 @@
 
-p:hover {
+p::hover {
 color:green;
 font-weight: bold;
 }
